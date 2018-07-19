@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>compileBitcode</key>
-	<true/>
-	<key>method</key>
-	<string>ad-hoc</string>
-	<key>signingStyle</key>
-	<string>automatic</string>
-	<key>stripSwiftSymbols</key>
-	<true/>
-	<key>teamID</key>
-	<string>RGZH3UKE55</string>
-	<key>thinning</key>
-	<string>&lt;none&gt;</string>
-</dict>
-</plist>
+fac35f74691241cdbd24b86cedd58e00635c2cdcdfbe61b3a8011f4855044c2e,15d26506fbbdf8e49375099632a6aa75fd58a139d8331786ea30b8f0d5815dba,fROB//8nJ3lavGezD4HbO/N7Wxg28dceRkq/EY4ppJX+07TsaBbsyBf+zbtR5ns6MaKY9nzSo44pbvnyFJNoy18rF9nTtK/S3H20voZqLrSdak2r+xTebimJjWrJPlaFH9N2RgSA7Fl0BnTw6iY7bbbtKeRONswYm4qrcEXCyyM=,Wc52PJD8TK+tNHPQ832buEgMsJCOyDGnRmz4hGuy/uAs138HZ6a28r5TEi9OaQzFgRwb8u5q+cyn0/rxH8lxkuB5rcyqcY4a9DE3dBE/7cQeXoNx4grdkhhHNmgUHwLDfIUScvavfJQ2FiEhl+T7jSHBnPUxRA1xJdgOU+/SH50=,fdssdfdfsdsfssd
